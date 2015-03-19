@@ -222,3 +222,7 @@ footer {
   font-style: italic;
   margin-bottom: 1.7em;
 }
+
+footer a{
+  color: white;
+}
