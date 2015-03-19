@@ -8,7 +8,7 @@ html {
 
 header{
   text-align: center;
-  background-color: red;
+  background-color: #E5001B;
   padding-top: 0.5em;
   padding-bottom: 0.4em;
   position: relative;
@@ -19,9 +19,9 @@ h1{
   color: white;
   font-family: 'Noto Sans', sans-serif;
   font-weight: 400;
-  font-size: 2.3rem;
+  font-size: 3rem;
   position: absolute;
-  top: 20px;
+  bottom: 0.4em;
   text-shadow: 2px 2px 1px rgba(0,0,0,0.5);
   margin: 0;
   text-align: center;
@@ -29,12 +29,12 @@ h1{
 }
 
 .chinese-zodiac{
-  color: red;
-
+  font-size: 1rem;
+  display: block;
 }
 
 .medallion {
-  width: 17%;
+  width: 100px;
   margin-top: 0em;
 }
 
@@ -107,13 +107,14 @@ p{
   overflow: hidden;
 }
 
-h3 {
+h2 {
   text-align: center;
   font-family: 'Noto Sans', sans-serif;
+  font-size: 1.2rem;
 }
 
 .ox-div{
-  background-color: yellow;
+  background-color: #E2C23A;
   position: relative;
   color: black;
 }
@@ -132,7 +133,7 @@ h3 {
 }
 
 .dragon-div {
-  background-color: yellow;
+  background-color: #E2C23A;
   color: black;
 }
 
@@ -150,7 +151,7 @@ h3 {
 }
 
 .rooster-div{
-  background-color: red;
+  background-color: #BB0016;
 }
 
 .rooster {
